@@ -1,4 +1,4 @@
-# Quality Assurance-Engineer-Challenge
+# QA-Automation-Challenge
 
 `version 1.0`
 `challenge status: open`
@@ -12,8 +12,8 @@ If you're someone who bleeds code and aches to make a difference in the world, t
 
 This is the Holmusk Quality Assurance Automation challenge. The rules of the challenge are as follows:
 
-* Your code should be commented
-* Because we, at Holmusk, take code organization seriously, please do ensure your source files are organized when you submit
+* Your code should be commented.
+* Because we, at Holmusk, take code organization seriously, please do ensure your source files are organized when you submit.
 * Please complete the challenge and email your solution in a zip file to careers@holmusk.com along with instructions on how to execute your program.
 * Please note that you will also be judged on the elegance of your code, level of abstraction and technical skills presented in the implementation. For more details, refer to the Judging Criteria section below.
 
@@ -36,6 +36,7 @@ You will need to create a test script that can select any date from a date picke
 
 > https://github.com/Holmusk/TestApplicationQA-iOS.git
 
+* Feel free to raise issues on the respective application pages if you have trouble compiling them.
 * You must use Java and Appium to write your tests. TestNG is preferred, but JUnit is fine as well.
 
 ## Judging Criteria
@@ -44,6 +45,6 @@ You will need to create a test script that can select any date from a date picke
 
 ## Bonus
 * The test script can launch the emulator/simulator, deploy apk/app file and launch the app.
-* Major points will be awarded if you use **RxJava** to power the automation.
+* **Major points** will be awarded if you use **RxJava** to power the automation.
 
 ** With that said we wish you good luck and look forward to receiving your submission!
