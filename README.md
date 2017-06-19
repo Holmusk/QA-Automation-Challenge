@@ -30,11 +30,11 @@ You will need to create a test script that can select any date from a date picke
 ### Bits and Pieces to take note of
 * The source code for the Android TestApplication can be found at:
 
-https://github.com/Holmusk/TestApplicationQA-Android.git
+> https://github.com/Holmusk/TestApplicationQA-Android.git
 
 * The source code for the iOS TestApplication can be found at:
 
-https://github.com/Holmusk/TestApplicationQA-iOS.git
+> https://github.com/Holmusk/TestApplicationQA-iOS.git
 
 * You must use Java and Appium to write your tests. TestNG is preferred, but JUnit is fine as well.
 
