@@ -14,7 +14,7 @@ This is the Holmusk Quality Assurance Automation challenge. The rules of the cha
 
 * Your code should be commented.
 * Because we, at Holmusk, take code organization seriously, please do ensure your source files are organized when you submit.
-* Please complete the challenge and email your solution in a zip file to careers@holmusk.com along with instructions on how to execute your program.
+* Please complete the challenge and email your solution in a zip file to viethai.pham@holmusk.com along with instructions on how to execute your program.
 * Please note that you will also be judged on the elegance of your code, level of abstraction and technical skills presented in the implementation. For more details, refer to the Judging Criteria section below.
 
 ## The Challenge 
