@@ -38,6 +38,7 @@ You will need to create a test script that can select any date from a date picke
 
 * Feel free to raise issues on the respective application pages if you have trouble compiling them.
 * You must use Java and Appium to write your tests. TestNG is preferred, but JUnit is fine as well.
+* Though not compulsory, usage of RxJava is highly recommended.
 
 ## Judging Criteria
 * What you have produced will determine your final outcome.
